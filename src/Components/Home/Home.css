@@ -1,0 +1,10 @@
+.cardBody {
+    background-color: rgb(90, 7, 90);
+}
+.heading {
+    height: 100px;
+    background-image: '../../images/stadium.jpg';
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+}
