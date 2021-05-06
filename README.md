@@ -10,4 +10,3 @@
 
 ### This is a react router practice project
 
-### [Live site](https://objective-minsky-271310.netlify.app/)
